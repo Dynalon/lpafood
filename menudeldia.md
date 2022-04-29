@@ -18,7 +18,7 @@
 
 ---
 
-## Pizzera Arte Sano
+## Pizzeria Arte Sano
 
 ![!! Only on Wednesdays !!](imgmdd/pizzeria_arte_sano_menudeldia.jpg)
 
