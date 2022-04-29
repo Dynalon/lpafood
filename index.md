@@ -1,19 +1,31 @@
-# LPA Restaurant Menus
+# Paseo de Las Canteras
 
 Note: Special _Menu del Dia_ offers are here: [Menu del Dia](menudeldia.md)
 
 ---
 
-## Café Regina (Paseo)
+## Café Regina
 
-![Menu](cafe_regina_paseo1.jpg)
-![Menu](cafe_regina_paseo2.jpg)
+![Menu](imgr/cafe_regina_paseo1.jpg)
+![Menu](imgr/cafe_regina_paseo2.jpg)
+
+---
+
+## Mozart Crunch
+
+![Menu](imgr/mozart_crunch1.jpg)
+![Bocadillo Meal](imgr/mozart_crunch_example.jpg)
 
 ---
 
 ## Tienda Gourmet
 
-![Board](tienda_gourmet_board.jpg)
-![]()
+![Board](imgr/tienda_gourmet_board.jpg)
+
+---
+
+## PataMig
+
+![Desayuno](imgr/patamig_desayuno.jpg)
 
 ---
