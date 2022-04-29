@@ -1,6 +1,6 @@
-# LPA Restaurants
+# LPA Food
 
-[Restaurants](index.md)
+[Restaurants & Cafés](index.md)
 [Menu del Dia](menudeldia.md)
 [Contribute](contribute.md)
 

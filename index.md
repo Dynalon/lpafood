@@ -27,5 +27,7 @@ Note: Special _Menu del Dia_ offers are here: [Menu del Dia](menudeldia.md)
 ## PataMig
 
 ![Desayuno](imgr/patamig_desayuno.jpg)
+![Plato1](imgr/patamig_plato1.jpg)
+![Plato2](imgr/patamig_plato2.jpg)
 
 ---
