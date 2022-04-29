@@ -1,4 +1,4 @@
-# Paseo de Las Canteras
+# Restaurants & Cafés
 
 Note: Special _Menu del Dia_ offers are here: [Menu del Dia](menudeldia.md)
 
