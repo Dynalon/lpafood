@@ -31,3 +31,11 @@ Note: Special _Menu del Dia_ offers are here: [Menu del Dia](menudeldia.md)
 ![Plato2](imgr/patamig_plato2.jpg)
 
 ---
+
+## Cokí 
+
+![Coki1](imgr/coki1.jpg)
+![Coki1](imgr/coki3.jpg)
+![Coki1](imgr/coki2.jpg)
+![Coki1](imgr/coki4.jpg)
+
