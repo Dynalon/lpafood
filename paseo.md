@@ -14,8 +14,9 @@
 
 ---
 
-## Osteria Martini
+## La Bikina
 
-Note: Food/Pizza is only average, but on Monday+Thursday every Pizza is just 5€ (no takeaways!)
+Very tasty food, although in the upper price range.
 
-![Menu](imgr/osteriamartini.jpg)
+![Menu](imgr/labikina1.jpg)
+![Menu](imgr/labikina2.jpg)

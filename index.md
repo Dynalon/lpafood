@@ -29,3 +29,14 @@ Calle Nestór de la Torre (close to Plaza d'Espagña). **Price for shown burger 
 
 ![Burger for 5.55€](imgr/naturalburger1.jpg)
 ![Receipt](imgr/naturalburger2.jpg)
+
+---
+
+## MooMoo Burger
+
+Great burgers.
+
+C. José Franchy Roca, 32.
+
+![Menu](imgr/moomoo1.jpg)
+![Menu](imgr/moomoo2.jpg)
